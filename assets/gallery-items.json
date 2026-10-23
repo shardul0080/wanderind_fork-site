@@ -1,0 +1,920 @@
+[
+    {
+        "src":  "/Behind the Scenes/IMG_1913.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_1918.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_1924.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_1928.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_1940.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_1945.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Behind the Scenes/IMG_2490.jpg",
+        "alt":  "A behind-the-scenes moment with The Wandering Fork",
+        "caption":  "A little behind the scenes",
+        "category":  "Behind the scenes",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0055.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0058.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0140.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0142.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0143.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0144.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0488.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0489.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0599.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0662.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0885.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0945.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_0979.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1008.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1292.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1304.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1305.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1306.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1307.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Hero Food Pics/IMG_1619.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0008.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  4032,
+        "height":  3024
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0053.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0256.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  4032,
+        "height":  3024
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0263.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  3846,
+        "height":  5381
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0269.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  3728,
+        "height":  2677
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0508.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  3022,
+        "height":  3706
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0531.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_0559.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_1869.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  3955,
+        "height":  5273
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_1927.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_1932.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_2343.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  2598,
+        "height":  3464
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_2380.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_2561.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  5374,
+        "height":  4030
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_2608.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_2910.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_7566.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_7851.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "square",
+        "width":  3968,
+        "height":  5291
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_7902.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "portrait",
+        "width":  4032,
+        "height":  2268
+    },
+    {
+        "src":  "/Oregon Coast \u0026 Local Sourcing/IMG_7981.jpg",
+        "alt":  "A scenic moment from the Oregon Coast",
+        "caption":  "Along the Oregon Coast",
+        "category":  "The coast",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_0357.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_0358.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_0360.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_0361.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_0995.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_0998.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_0999.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1001.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1007.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1008.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_1009.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_1011.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1013.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  4032,
+        "height":  3024
+    },
+    {
+        "src":  "/Private Dinners/IMG_1017.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1020.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  3024,
+        "height":  4032
+    },
+    {
+        "src":  "/Private Dinners/IMG_1873.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1876.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  3968,
+        "height":  5291
+    },
+    {
+        "src":  "/Private Dinners/IMG_1877.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1878.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "square",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1879.jpg",
+        "alt":  "A chef-prepared dish for a coastal gathering",
+        "caption":  "Fresh from the kitchen",
+        "category":  "At the table",
+        "shape":  "portrait",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0363.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0367.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0425.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0428.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0430.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0432.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0434.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0435.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0436.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0438.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0442.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0445.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0446.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0451.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0456.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0460.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0461.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0464.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "portrait",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0466.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0660.jpg",
+        "alt":  "A wedding or celebration catered by The Wandering Fork",
+        "caption":  "A day worth remembering",
+        "category":  "Gatherings",
+        "shape":  "square",
+        "width":  2800,
+        "height":  2100
+    },
+    {
+        "src":  "/Private Dinners/IMG_1881.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  3894,
+        "height":  5192
+    },
+    {
+        "src":  "/Private Dinners/IMG_1887.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  4024,
+        "height":  5365
+    },
+    {
+        "src":  "/Private Dinners/IMG_1899.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1901.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1906.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Private Dinners/IMG_1909.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1913.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  5712,
+        "height":  4284
+    },
+    {
+        "src":  "/Private Dinners/IMG_1918.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  4284,
+        "height":  5712
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0667.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0675.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0683.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_0692.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_2886.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_2889.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    },
+    {
+        "src":  "/Weddings \u0026 Elopements/IMG_2891.jpg",
+        "alt":  "A closer look at food and details from a Wandering Fork gathering",
+        "caption":  "Details from a gathering",
+        "category":  "Behind the scenes",
+        "shape":  "landscape",
+        "width":  2100,
+        "height":  2800
+    }
+]

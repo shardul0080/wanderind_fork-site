@@ -1,0 +1,34 @@
+body { margin: 0; }
+[hidden] { display: none !important; }
+.brand img { width: auto; height: 50px; object-fit: contain; }
+
+/* Match the positioning Next Image applies to fill images. */
+.aboutHeroPhoto img,
+.aboutStoryPhoto img,
+.aboutGalleryImage img,
+.serviceRowImage img,
+.howStepImage img,
+.heroImage img,
+.reviewFoodPhoto img,
+.reviewPhoto img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.aboutHeroPhoto img,
+.aboutStoryPhoto img,
+.aboutGalleryImage img,
+.serviceRowImage img,
+.howStepImage img,
+.heroImage img,
+.reviewFoodPhoto img { object-fit: cover; }
+.reviewPhoto img { object-fit: contain; object-position: center; }
+
+/* These source images have intrinsic dimensions instead of fill sizing. */
+.galleryImage img,
+.rackCard img { display: block; width: 100%; height: auto; }
+
+.extra-review { display: none; }
+.guestReviews.expanded .extra-review { display: block; }
